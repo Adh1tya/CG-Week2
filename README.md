@@ -25,27 +25,27 @@ This week aimed at strengthening your understanding of how Java leverages OOP pr
 
 ## ✅ Topics Covered
 
-### [Day 1: Java Constructors, Instance vs. Class Variables, Access Modifiers](https://github.com/Wickeshhh/Week2/tree/master/Day1-Java%20Constructors%2C%20Instance%20vs.%20Class%20Variables%2C%20Access%20Modifiers)
+### [Day 1: Java Constructors, Instance vs. Class Variables, Access Modifiers](https://github.com/Adh1tya/CG-Week2/tree/main/Day-1-Java%20Constructors%2C%20Instance%20vs.%20Class%20Variables%2C%20Access%20Modifiers)
 - Understanding constructors and their types (default, parameterized)
 - Instance vs. class (static) variables
 - Access modifiers: `private`, `public`, `protected`, and default
 - Use of access control in encapsulation
 - Code samples to demonstrate scope and initialization
 
-### [Day 2: this, static, final keywords and instanceof Operator](https://github.com/Wickeshhh/Week2/tree/master/Day2-this%2C%20static%2C%20final%20key%20words%20and%20instanceof%20Operator)
+### [Day 2: this, static, final keywords and instanceof Operator](https://github.com/Adh1tya/CG-Week2/tree/main/Day-2-this%2C%20static%2C%20final%20key%20words%20and%20instanceof%20Operator)
 - Using the `this` keyword to refer to the current object
 - Declaring static fields and methods
 - Understanding the `final` keyword for variables, methods, and classes
 - Using the `instanceof` operator for type checking
 
-### [Day 3: Single and Multilevel Inheritance](https://github.com/Wickeshhh/Week2/tree/master/Day3-Single%20and%20Multilevel%20Inheritance)
+### [Day 3: Single and Multilevel Inheritance](https://github.com/Adh1tya/CG-Week2/tree/main/Day-3-Single%20and%20Multilevel%20Inheritance)
 - What is inheritance and why it's used
 - Single inheritance (subclass extending a single superclass)
 - Multilevel inheritance (a class derived from a derived class)
 - Method overriding and use of `super` keyword
 - Inheritance code examples and diagrams
 
-### [Day 4: Hierarchical and Hybrid Inheritance](https://github.com/Wickeshhh/Week2/tree/master/Day4-Hierarchical%20and%20Hybrid%20Inheritance)
+### [Day 4: Hierarchical and Hybrid Inheritance](https://github.com/Adh1tya/CG-Week2/tree/main/Day-4-Hierarchical%20and%20Hybrid%20Inheritance)
 - Hierarchical inheritance (multiple classes inheriting from one superclass)
 - Concept of hybrid inheritance using interfaces
 - Real-life modeling with inheritance trees
