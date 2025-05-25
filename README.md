@@ -13,7 +13,7 @@ Welcome to the repository for **Week 2** of our Java learning journey. This week
   - [Day 3: Single and Multilevel Inheritance](#day-3-single-and-multilevel-inheritance)
   - [Day 4: Hierarchical and Hybrid Inheritance](#day-4-hierarchical-and-hybrid-inheritance)
 - [Prerequisites](#prerequisites)
-- [How to Use This Repository](#how-to-use-this-repository)
+- [How to Use This Repository](#-how-to-use-this-repository)
 
 ---
 
